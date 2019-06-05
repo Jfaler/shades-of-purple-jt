@@ -1,5 +1,5 @@
 <p align="center">
-	<img with="800" height="426" src="screenshot.png" alt="Shades-of-Purple Theme for Cygwin" />
+	<img with="800" height="426" src="screenshot.png" alt="Shades-of-Purple Theme for Jupyter Notebook" />
 </p>
 
 <h1 align="center">Shades of Purple Theme for Jupyter Notebook</h1>
@@ -19,6 +19,18 @@
 4.  Open `jt -t shades-of-purple` 
 
 — Done!!! 🙌
+
+<p align="center">
+	<img with="800" height="426" src="screenshot2.png" alt="Shades-of-Purple Theme for Jupyter Notebook" />
+</p>
+
+<p align="center">
+	<img with="800" height="426" src="screenshot3.png" alt="Shades-of-Purple Theme for Jupyter Notebook" />
+</p>
+
+<p align="center">
+	<img with="800" height="426" src="screenshot4.png" alt="Shades-of-Purple Theme for Notebook" />
+</p>
 
 <br>
 
