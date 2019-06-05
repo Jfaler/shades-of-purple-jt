@@ -1,3 +1,7 @@
+<p align="center">
+	<img with="800" height="426" src="screenshot.png" alt="Shades-of-Purple Theme for Cygwin" />
+</p>
+
 <h1 align="center">Shades of Purple Theme for Jupyter Notebook</h1>
 
 <br>
