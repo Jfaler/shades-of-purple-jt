@@ -28,10 +28,6 @@
 	<img with="800" height="426" src="screenshot3.png" alt="Shades-of-Purple Theme for Jupyter Notebook" />
 </p>
 
-<p align="center">
-	<img with="800" height="426" src="screenshot4.png" alt="Shades-of-Purple Theme for Notebook" />
-</p>
-
 <br>
 
 ![Shades of purple for other software](https://on.ahmda.ws/qYAe/c)
